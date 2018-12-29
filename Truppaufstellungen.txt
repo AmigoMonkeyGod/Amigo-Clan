@@ -34,8 +34,8 @@ Leader:	Sandro		Amigo Se3Retly
 
 Trupp 4: (5 Mitglieder)
 
-Leader:	Fabian		Amigo Lazy
-	Nils		Amigo EngeL
+Leader:	Nils		Amigo EngeL
+	Fabian		Amigo Lazy
 	Jamal		Amigo J4m4l
 	Sascha		GEReG Nerz17
 	Denis		IFoxA
