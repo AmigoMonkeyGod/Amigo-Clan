@@ -1,12 +1,13 @@
 Trupps:			Stand: 29.12.2018
 
-Trupp 1: (6 Mitglieder)
+Trupp 1: (7 Mitglieder)
 
 Leader: Patrick		Amigo Polskii
 	Luca		Amigo SNIP3Z
 	Joey		Amigo Ziggeding
 	Hauke 		Amigo Havok
 	Patrik		Amigo Dryze
+	Markus		Amigo Ruskii
 	Timon		I AsRz I
 	
 	
@@ -22,17 +23,18 @@ Leader:	Justin		Amigo Knight
 	Max		MaxOPz
 
 
-Trupp 3: (4 Mitglieder)
+Trupp 3: (5 Mitglieder)
 
-Leiter:	Sandro		Amigo Se3Retly
+Leader:	Sandro		Amigo Se3Retly
 	Erik		Amigo GuAR4iaN
 			Amigo Blxee 
-	Max		gaborkosice
+	Max		Amigo T0xiC
+	Christian	HyPe Rusher
 
 
 Trupp 4: (5 Mitglieder)
 
-Leiter:	Fabian		Amigo Lazy
+Leader:	Fabian		Amigo Lazy
 	Nils		Amigo EngeL
 	Jamal		Amigo J4m4l
 	Sascha		GEReG Nerz17
