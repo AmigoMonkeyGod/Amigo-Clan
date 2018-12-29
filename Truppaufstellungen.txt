@@ -1,11 +1,12 @@
 Trupps:			Stand: 29.12.2018
 
-Trupp 1: (5 Mitglieder)
+Trupp 1: (6 Mitglieder)
 
 Leader: Patrick		Amigo Polskii
 	Luca		Amigo SNIP3Z
 	Joey		Amigo Ziggeding
 	Hauke 		Amigo Havok
+	Patrik		Amigo Dryze
 	Timon		I AsRz I
 	
 	
@@ -44,7 +45,6 @@ Nicht zugeteilte R6 Spieler:
 	Ricky		Amigo No0oB
 	Fabio		Amigo Helvetic
 	Hutan		Amigo VipZ
-	Patrik		Amigo Dryze
 
 
 
