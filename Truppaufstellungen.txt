@@ -32,13 +32,15 @@ Leader:	Sandro		Amigo Se3Retly
 	Christian	HyPe Rusher
 
 
-Trupp 4: (5 Mitglieder)
+Trupp 4: (7 Mitglieder)
 
-Leader:	Nils		Amigo EngeL
-	Fabian		Amigo Lazy
+Leader:	Fabian		Amigo Lazy
+	Nils		Amigo EngeL
 	Jamal		Amigo J4m4l
 	Sascha		GEReG Nerz17
 	Denis		IFoxA
+	Marcel		-		Later: Amigo PsyCHoOx
+	Leon		Amigo Skys
 
 
 Nicht zugeteilte R6 Spieler:
@@ -47,6 +49,7 @@ Nicht zugeteilte R6 Spieler:
 	Ricky		Amigo No0oB
 	Fabio		Amigo Helvetic
 	Hutan		Amigo VipZ
+	Tancu		Txncu67
 
 
 
