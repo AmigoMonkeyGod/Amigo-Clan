@@ -1,11 +1,10 @@
 Trupps:			Stand: 02.01.2019
 
-Trupp 1: (7 Mitglieder)
+Trupp 1: (6 Mitglieder)
 
 Leader: Patrick		Amigo Polskii
 	Luca		Amigo SNIP3Z
 	Joey		Amigo Ziggeding
-	Hauke 		Amigo Havok
 	Patrik		Amigo Dryze
 	Markus		Amigo Ruskii
 	Timon		I AsRz I
