@@ -8,7 +8,7 @@ Mitglieder: 34
 5.	Nikki		Amigo InDi4nA
 6.	Justin		Amigo Knight
 7.	Mark		Amigo Morpheus
-8.	Jermaine	vPxra
+8.	Chris		Amigo TUN3CHI
 9.	Chris²		Amigo Venus
 10.	Dani		Amigo HawU
 11.	Louis		Amigo vVorx
@@ -35,3 +35,4 @@ Mitglieder: 34
 32.	Christian	HyPe Rusher
 33.	Leon		Amigo Skys
 34.	Marcel		Amigo ViRuUs
+35. Jermaine	vPxra
