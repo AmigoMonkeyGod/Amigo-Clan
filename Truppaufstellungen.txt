@@ -1,4 +1,4 @@
-Trupps:			Stand: 02.01.2019
+Trupps:			Stand: 03.01.2019
 
 Trupp 1: (6 Mitglieder)
 
@@ -7,7 +7,7 @@ Leader: Patrick		Amigo Polskii
 	Joey		Amigo Ziggeding
 	Patrik		Amigo Dryze
 	Markus		Amigo Ruskii
-	Timon		I AsRz I
+	Timon		Amigo KryZe
 	
 	
 Trupp 2: (8 Mitglieder)
@@ -33,12 +33,12 @@ Leader:	Sandro		Amigo Se3Retly
 
 Trupp 4: (7 Mitglieder)
 
-Leader:	Fabian		Amigo Lazy
-	Nils		Amigo EngeL
+Leader:	Nils		Amigo EngeL
+	Fabian		Amigo Lazy
 	Jamal		Amigo J4m4l
 	Sascha		GEReG Nerz17
 	Denis		IFoxA
-	Marcel		-		Later: Amigo PsyCHoOx
+	Marcel		Amigo ViRuUs
 	Leon		Amigo Skys
 
 
@@ -49,6 +49,4 @@ Nicht zugeteilte R6 Spieler:
 	Fabio		Amigo Helvetic
 	Hutan		Amigo VipZ
 	Tancu		Txncu67
-
-
 
